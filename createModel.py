@@ -14,6 +14,7 @@ from PIL import ImageFile
 from keras.layers.core import Activation
 from sklearn.utils import shuffle
 
+
 num_classes = 10
 epochs = 30
 learning_rate = 0.001
